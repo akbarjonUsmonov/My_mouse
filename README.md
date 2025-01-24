@@ -31,3 +31,14 @@ Akbar Usmonov
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+
+
+
+ git remote add origin https://github.com/akbarjonUsmonov/My_mouse.git
+ git branch -M main
+ git push -u origin mainecho "# My_mouse" >> README.md
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git branch -M main
+ git remote add origin https://github.com/akbarjonUsmonov/My_mouse.git
