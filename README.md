@@ -17,7 +17,12 @@ marked as visited until program reachs source. When we completed collecting\
 coordinates of path we give it print.
 
 ## Installation
-Get a copy, run make in the root folder, run scripts to generate maps.
+1. Get a copy
+2. Run make in the root folder, run scripts to generate maps.
+   
+ To run this program user can use GNU complilation gcc command or Makefile that i provided
+    $>make
+    $>./my_mouse maps/01.map
 
 ## Usage
 Give a file with a map in it as the argument to the executable.
